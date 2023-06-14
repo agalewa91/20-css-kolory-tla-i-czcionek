@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(207, 219, 232);
+}
+h1 {
+  background-color: rgb(175, 207, 237);
+}
+h2 {
+  background-color: rgb(123, 178, 230);
+}
+.zero {
+  background-color: rgb(83, 160, 224);
+}
+.one {
+  background-color: rgb(74, 112, 169);
+}
+ol {
+  background-color: rgb(75, 106, 152);
+}
+.item1 {
+  color: paleturquoise;
+}
+.item2 {
+  color: rgb(115, 222, 222);
+}
+.item3 {
+  color: rgb(32, 161, 161);
+}
+.item4 {
+  color: rgb(158, 176, 176);
+}
+.item5 {
+  color: rgb(225, 230, 230);
+}
